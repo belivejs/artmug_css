@@ -2,4 +2,6 @@
 *.html
 .DS_Store
 ./comission
+./samples
 .zip
+*.md
